@@ -2,6 +2,16 @@ import React from 'react';
 
 const qualifications = [
     {
+        title: "Preparation for Job",
+        year: 2024,
+        description: "Self-study through courses with a certificate and doing independent courses in order to gain practical experience.",
+        institute: {
+            name: "•	Docker Foundations - Professional Certificate by Docker,inc •	Node.js Essential Training - Certification by LinkedIn  •	JavaScript Foundations - Professional Certificate by Mozilla",
+            shortName: "",
+            duration: "",
+        }
+    },
+    {
         title: "BSc. in Computer Science",
         year: 2024,
         description: "Achieved four years bechelor degree from a reputed Collage. It was a great really a experience of life.",
