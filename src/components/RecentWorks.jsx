@@ -20,7 +20,7 @@ const recentWorks = [
         title: "Book Store Stock Managment",
         description: "Manage books collection. You can add, delete, update, and view information about your favorite book.",
         techs: ["React", "Node", "JS","MongoDB", "Express.js", "Tailwind","Vite"],
-        img: "/images/bookStore.jpg",
+        img: "/images/bookStore.png",
         ref: "https://github.com/shakedshoshan/bookStoreSystem"
     },
     {
@@ -35,15 +35,15 @@ const recentWorks = [
 // Functional component
 const RecentWorks = () => {
     return (
-        <div id="recent-works" className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+        <div id="recent-works" className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-2">
   {recentWorks.map((work, index) => (
     <div key={index} className="flex flex-col bg-white border  border-gray-200 rounded-lg dark:bg-gray-800 dark:border-gray-700">
       {/* Image */}
-      <div className="lg:h-36 object-cover">
+      <div className="">
         <img className="rounded-t-lg w-full" src={work.img} alt={work.title} />
       </div>
       {/* Content */}
-      <div className="flex flex-col p-3 pt-16  border-gray-100 dark:border-gray-600 flex-grow">
+      <div className="flex flex-col p-3   border-gray-100 dark:border-gray-600 flex-grow">
         <h5 className="text-xl font-semibold text-gray-900 dark:text-gray-200">{work.title}</h5>
         <p className="font-light text-gray-800 dark:text-gray-400">{work.description}</p>
         {/* Tech Buttons */}
@@ -52,7 +52,7 @@ const RecentWorks = () => {
             <button
               key={idx}
               type="button"
-              className="text-gray-900 bg-gray-100 border border-gray-100 hover:bg-gray-50 font-medium rounded-md text-sm px-3.5 py-2 mr-2 mb-2 dark:bg-gray-700 dark:text-gray-100 dark:border-gray-700 dark:hover:bg-gray-600 dark:hover:border-gray-600"
+              className="text-gray-900 bg-gray-100 border border-gray-100 hover:bg-gray-50 font-medium rounded-md text-sm px-2 py-2 mr-1 mb-2 dark:bg-gray-700 dark:text-gray-100 dark:border-gray-700 dark:hover:bg-gray-600 dark:hover:border-gray-600 scale-90"
             >
               {tech}
             </button>
