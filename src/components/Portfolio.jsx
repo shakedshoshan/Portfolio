@@ -53,23 +53,23 @@ const Portfolio = () => {
                 <h2 className="text-md font-normal text-gray-800 dark:text-gray-400 mt-2">MERN, Full-Stack Web Developer.</h2>
 
                 
-                <div className="flex mt-6 ">
+                <div className="flex mt-6">
                 <a href="https://www.linkedin.com/in/shaked-shoshan-0a9471256/" target="_blank" rel="noop"
-                    className="flex hover:bg-slate-100 rounded-md px-1 items-center mr-2 font-light text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300">
+                    className="flex hover:bg-slate-100 rounded-full p-2 px-2 items-center mr-2 font-light text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300">
                     <img className="w-5 h-5" src="icons/linkedin.png" alt="GitHub" />
-                    <span>/Shaked Shoshan</span>
+                    <span></span>
                   </a>
 
                   <a href="https://github.com/shakedshoshan" target="_blank" rel="noopener noreferrer"
-                    className="flex hover:bg-slate-100 rounded-md px-1 items-center mr-2 font-light text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300">
+                    className="flex hover:bg-slate-100 rounded-full p-2 px-2 items-center mr-2 font-light text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300">
                     <img className="w-5 h-5" src="icons/github.png" alt="GitHub" />
-                    <span>/shakedshoshan</span>
+                    <span></span>
                   </a>
                   
                   <a href="https://www.kaggle.com/shakedshoshan" target="_blank" rel="noopener"
-                    className="flex hover:bg-slate-100 rounded-md px-1 items-center mr-2 font-light text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300">
+                    className="flex hover:bg-slate-100 rounded-full p-2 px-2 items-center mr-2 font-light text-gray-600 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-300">
                     <img className="w-5 h-5" src="icons/kaggle.png" alt="GitHub" />
-                    <span>/shakedshoshan</span>
+                    <span></span>
                   </a>
                 </div>
 
