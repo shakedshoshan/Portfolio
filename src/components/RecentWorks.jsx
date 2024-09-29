@@ -17,6 +17,13 @@ const recentWorks = [
         ref: "https://github.com/shakedshoshan/chat-app"
     },
     {
+      title: "Fill in the Blanks Game",
+        description: "A multiplayer word game, where players take turns filling in blanks to create hilarious and nonsensical sentences.",
+        techs: ["React", "Node","Socket.io", "JS","MongoDB", "Express.js", "Tailwind","Vite"],
+        img: "/images/fill-the-blanck.png",
+        ref: "https://github.com/shakedshoshan/games-dev"
+    },
+    {
         title: "Book Store Stock Managment",
         description: "Manage books collection. You can add, delete, update, and view information about your favorite book.",
         techs: ["React", "Node", "JS","MongoDB", "Express.js", "Tailwind","Vite"],
@@ -29,6 +36,13 @@ const recentWorks = [
         techs: ["React", "JS", "Tailwind","Vite"],
         img: "/images/currency.png",
         ref: "https://github.com/shakedshoshan/currency-converter"
+    },
+    {
+      title: "Portfolio",
+        description: "My professional portfolio showcasing my work and skills.",
+        techs: ["React", "JS", "Tailwind","Vite"],
+        img: "/images/portfoilo.png",
+        ref: "https://github.com/shakedshoshan/Portfolio"
     },
 ];
 
