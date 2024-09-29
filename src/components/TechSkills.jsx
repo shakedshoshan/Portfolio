@@ -44,6 +44,7 @@ const techSkills = [
         title: "Dev Tools",
         skills: [
             { icon: <i className="fa-brands fa-github pr-2"></i>, name: "GitHub"},
+            {icon: <img className="w-4 h-4 mr-1" src="icons/cursor.png" alt="Cursor"/>, name: "Cursor" },
             { icon: <img className="w-4 h-4 mr-1" src="icons/vscode.png" alt="VSCode"/>, name: "VSCode" },
             { icon: <img className="w-4 h-4 mr-1" src="icons/postman.png" alt="postman"/>, name: "Postman" },
             { icon: <img className="w-4 h-4 mr-1" src="icons/kaggle.png" alt="Kaggle"/>, name: "Kaggle" },
