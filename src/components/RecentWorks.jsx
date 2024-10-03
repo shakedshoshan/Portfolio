@@ -31,6 +31,13 @@ const recentWorks = [
         ref: "https://github.com/shakedshoshan/bookStoreSystem"
     },
     {
+        title: "To-do app",
+        description: "A to-do app that allows you to add, delete, and update tasks.",
+        techs: ["React", "Node", "JS","PostgreSQL", "Express.js", "Tailwind","Vite"],
+        img: "/images/todo-screenshoot.png",
+        ref: "https://github.com/shakedshoshan/todo-app"
+    },
+    {
         title: "Currency Converter",
         description: "Professional page for digital marketing.",
         techs: ["React", "JS", "Tailwind","Vite"],

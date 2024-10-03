@@ -37,7 +37,7 @@ const techSkills = [
         skills: [
             { icon: <img className="w-4 h-4 mr-1" src="icons/mongo.png" alt="MongoDB"/>, name: "MongoDB"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/mysql.png" alt="MySql"/>, name: "MySql"},
-            { icon: <i className="fa-solid fa-server fa-xs text-green-700"></i>, name: "Mongoose" }
+            { icon: <img className="w-4 h-4 mr-1" src="icons/postgresql.png" alt="PostgreSql"/>, name: "PostgreSql"},
         ]
     },
     {
