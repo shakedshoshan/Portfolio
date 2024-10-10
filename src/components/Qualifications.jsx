@@ -22,7 +22,7 @@ const qualifications = [
         }
     },
     {
-        title: "Military Service in 8200, an intelligence unit",
+        title: "Military Service in 8200, an intelligence unit ",
         year: 2019,
         description: "Achieved three years of significant service. I served as an electronics practical engineer for classified intelligence systems. During the service I gained a lot of knowledge and experience working in a technological environment and teamwork",
         institute: {
