@@ -24,6 +24,20 @@ const recentWorks = [
         ref: "https://github.com/shakedshoshan/games-dev"
     },
     {
+      title: "Algorithm Visuality",
+      description: "Algorithm Visuality provides a user-friendly interface for exploring the inner workings of popular search and sort algorithms.",
+      techs: ["React","TypeScript", "Tailwind","Vite", "shadcn", "radix-ui"],
+      img: "/images/Screenshot-AlgorithmVisualizer 1.png",
+      ref: "https://github.com/shakedshoshan/algorithm-visuality"
+    },
+    {
+      title: "Image Generator",
+      description: "A image generator that allows you to generate images based on a prompt. Including Authentication an saving images to your account.",
+      techs: ["React", "Node", "JS","PostgreSQL", "Express.js", "RapidAPI" , "Tailwind","Vite", "Zustand", "Shadcn"],
+      img: "/images/Screenshot-imageGenerator1.png",
+      ref: "https://github.com/shakedshoshan/Image-generator"
+    },
+    {
         title: "Book Store Stock Managment",
         description: "Manage books collection. You can add, delete, update, and view information about your favorite book.",
         techs: ["React", "Node", "JS","MongoDB", "Express.js", "Tailwind","Vite"],

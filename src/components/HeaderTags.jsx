@@ -10,19 +10,19 @@ const tags = [
     },
     {
         icon: <i className="fa-solid fa-code fa-sm mr-1 text-blue-400"></i>,
-        name: "React Developer"
+        name: "React.js"
     },
     {
         icon: <i className="fa-solid fa-code fa-sm mr-1 text-green-600"></i>,
-        name: "Node"
+        name: "Node.js"
     },
     {
         icon: <i className="fa-solid fa-terminal fa-sm mr-1 text-orange-500"></i>,
-        name: "MERN"
+        name: "MongoDB"
     },
     {
         icon: <i className="fa-solid fa-terminal fa-sm mr-1 text-blue-600"></i>,
-        name: "JavaScript"
+        name: "PostgreSQL"
     },
 ];
 

@@ -50,7 +50,7 @@ const Portfolio = () => {
               <div className="header mb-16">
                 <h1 className="text-2xl font-bold text-gray-900 dark:text-gray-200">Shaked Shoshan</h1>
                 <p className="text-sm text-gray-700 dark:text-gray-500">A highly motivated and a self-learner </p>
-                <h2 className="text-md font-normal text-gray-800 dark:text-gray-400 mt-2">MERN, Full-Stack Web Developer.</h2>
+                <h2 className="text-md font-normal text-gray-800 dark:text-gray-400 mt-2">Software Developer.</h2>
 
                 
                 <div className="flex mt-6">
