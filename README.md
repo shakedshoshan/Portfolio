@@ -2,16 +2,7 @@
 
 Welcome to my personal portfolio project! This project showcases my skills, qualifications, and recent works as a software developer. It is built using modern web technologies and is designed to be responsive and visually appealing.
 
-## Table of Contents
-
-- [About](#about)
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+![portfoilo](https://github.com/user-attachments/assets/2b30ed82-e18b-4c81-bb3c-3ef58b479c9b)
 
 ## About
 
@@ -63,19 +54,6 @@ To run this project locally, follow these steps:
 - Use the navigation bar to access different parts of the portfolio.
 - Click on project links to view more details on GitHub.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
