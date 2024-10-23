@@ -14,7 +14,7 @@ const qualifications = [
     {
         title: "BSc. in Computer Science",
         year: 2024,
-        description: "Achieved four years bechelor degree from a reputed Collage. It was a great really a experience of life.",
+        description: "Achieved four years bechelor degree from a reputed Collage. It was a great really a experience of life. ",
         institute: {
             name: "Afeka Tel-Aviv Academic College of Engineering.",
             shortName: "",
