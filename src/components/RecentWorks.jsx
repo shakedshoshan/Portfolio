@@ -17,6 +17,13 @@ const recentWorks = [
         ref: "https://github.com/shakedshoshan/chat-app"
     },
     {
+      title: "Social Media Sport Prediction App",
+      description: "A social platform where users can predict sports match outcomes, join groups, and compete with friends. Features include match schedules, group discussions, scraping algorithm for pre-game data and prediction tracking.",
+      techs: ["React", "Node", "PostgreSQL", "Redis", "Express.js", "Tailwind", "Vite", "Zustand", "Cheerio"],
+      img: "/images/sport media - home.png",
+      ref: "https://github.com/shakedshoshan/social-media-sport-pred"
+    },
+    {
       title: "Fill in the Blanks Game",
         description: "A multiplayer word game, where players take turns filling in blanks to create hilarious and nonsensical sentences.",
         techs: ["React", "Node","Socket.io", "JS","MongoDB", "Express.js", "Tailwind","Vite"],
@@ -25,7 +32,7 @@ const recentWorks = [
     },
     {
       title: "Algorithm Visuality",
-      description: "Algorithm Visuality provides a user-friendly interface for exploring the inner workings of popular search and sort algorithms.",
+      description: "Algorithm Visuality provides a user-friendly interface for exploring the inner workings of popular search and sort algorithms. Link to the site:  https://algorithm-visuality.onrender.com/",
       techs: ["React","TypeScript", "Tailwind","Vite", "shadcn", "radix-ui"],
       img: "/images/Screenshot-AlgorithmVisualizer 1.png",
       ref: "https://github.com/shakedshoshan/algorithm-visuality"
@@ -64,7 +71,8 @@ const recentWorks = [
         techs: ["React", "JS", "Tailwind","Vite"],
         img: "/images/portfoilo.png",
         ref: "https://github.com/shakedshoshan/Portfolio"
-    },
+    } 
+
 ];
 
 // Functional component

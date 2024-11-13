@@ -95,7 +95,6 @@ const Portfolio = () => {
                   <h1 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Qualifications</h1>
                 </div>
                 <Qualifications />
-                
               </div>
               <hr className="my-8 h-px bg-gray-100 border-0 dark:bg-gray-800" />
 
