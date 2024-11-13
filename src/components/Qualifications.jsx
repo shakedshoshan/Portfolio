@@ -3,7 +3,7 @@ import React from 'react';
 const qualifications = [
     {
         title: "Full Stack Developer - Early-Stage Startup",
-        year: 2023,
+        year: 2024,
         description: "Working as a Full Stack Developer in a small team of experienced developers who have previously built startups. Collaborating on an innovative new startup project, gaining hands-on experience with modern web technologies and agile development practices.",
         institute: {
             name: "",
