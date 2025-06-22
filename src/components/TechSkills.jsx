@@ -7,6 +7,7 @@ const techSkills = [
         title: "Languages",
         skills: [
             { icon: <i className="fa-brands fa-square-js text-yellow-500 pr-2"></i>, name: "JavaScript"},
+            { icon: <img className="w-4 h-4 mr-1" src="icons/typescript.png" alt="TypeScript"/>, name: "TypeScript"},
             { icon: <i className="fa-brands fa-html5 fa-lg text-green-600 pr-2"></i>, name: "HTML"},
             { icon: <i className="fa-brands fa-css3-alt fa-lg text-blue-600 pr-2"></i>, name: "CSS3"},
             { icon: <i className="fa-brands fa-python fa-sm text-blue-950 pr-2"></i>, name: "Python"},
@@ -20,7 +21,9 @@ const techSkills = [
             { icon: <img className="w-4 h-4 mr-1" src="icons/typescript.png" alt="TypeScript"/>, name: "TypeScript" },
             { icon: <img className="w-4 h-4 mr-1" src="icons/tailwind.png" alt="tailwind"/>, name: "Tailwind" },
             { icon: <i className="fa fa-th-list text-slate-900 pr-2"></i>, name: "shadcn"},
-            { icon: <img className="w-4 h-4 mr-1" src="icons/nextjs.png" alt="Next.js"/>, name: "Next.js"}
+            { icon: <img className="w-4 h-4 mr-1" src="icons/nextjs.png" alt="Next.js"/>, name: "Next.js"},
+            { icon: <img className="w-4 h-4 mr-1" src="icons/chakraui.png" alt="Chakra UI"/>, name: "Chakra UI"}
+
         ]
     },
     {
@@ -28,6 +31,7 @@ const techSkills = [
         skills: [
             { icon: <i className="fa-brands fa-node fa-sm text-green-600 pr-2"></i>, name: "Node.js"},
             { icon: <i className="fa-brands fa-node-js text-green-600 pr-2"></i>, name: "Express.js" },
+            { icon: <img className="w-4 h-4 mr-1" src="icons/pulumi.png" alt="Pulumi"/>, name: "Pulumi"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/Socket.io.png" alt="Socket.io"/>, name: "Socket.io"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/jwt.png" alt="jwt"/>, name: "JWT"},
         ]
@@ -36,15 +40,25 @@ const techSkills = [
         title: "Database",
         skills: [
             { icon: <img className="w-4 h-4 mr-1" src="icons/mongo.png" alt="MongoDB"/>, name: "MongoDB"},
-            { icon: <img className="w-4 h-4 mr-1" src="icons/mysql.png" alt="MySql"/>, name: "MySql"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/postgresql.png" alt="PostgreSql"/>, name: "PostgreSql"},
+            { icon: <img className="w-4 h-4 mr-1" src="icons/mysql.png" alt="MySql"/>, name: "MySql"},
+            { icon: <img className="w-4 h-4 mr-1" src="icons/supabase.png" alt="Supabase"/>, name: "Supabase"},
+        ]
+    },
+    {
+        title: "Cloud Services",
+        skills: [
+            { icon: <i className="fa-brands fa-aws text-yellow-500 pr-2"></i>, name: "AWS"},
+            { icon: <i className="fa-brands fa-google text-red-500 pr-2"></i>, name: "GCP"},
+            { icon: <img className="w-4 h-4 mr-1" src="icons/vercel.png" alt="Vercel"/>, name: "Vercel"},
+            
         ]
     },
     {
         title: "Dev Tools",
         skills: [
             { icon: <i className="fa-brands fa-github pr-2"></i>, name: "GitHub"},
-            {icon: <img className="w-4 h-4 mr-1" src="icons/cursor.png" alt="Cursor"/>, name: "Cursor" },
+            { icon: <img className="w-4 h-4 mr-1" src="icons/cursor.png" alt="Cursor"/>, name: "Cursor" },
             { icon: <img className="w-4 h-4 mr-1" src="icons/vscode.png" alt="VSCode"/>, name: "VSCode" },
             { icon: <img className="w-4 h-4 mr-1" src="icons/postman.png" alt="postman"/>, name: "Postman" },
             { icon: <img className="w-4 h-4 mr-1" src="icons/kaggle.png" alt="Kaggle"/>, name: "Kaggle" },

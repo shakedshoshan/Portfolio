@@ -31,6 +31,13 @@ const recentWorks = [
         ref: "https://github.com/shakedshoshan/games-dev"
     },
     {
+      title: "SipEat App",
+      description: "Built as a freelance project for SipEat, a company specializing in vending machines, this web application streamlines interactions with food and beverage services. It allows users to create contacts for requesting machine placements and customize beverage selections for specific machines, enhancing the experience for customers who purchase from them.",
+      techs: ["React", "Node", "PostgreSQL", "Supabase", "TailwindCSS", "JavaScript"],
+      img: "/images/sipeat.png",
+      ref: "https://sipEat.app"
+    },
+    {
       title: "Algorithm Visuality",
       description: "Algorithm Visuality provides a user-friendly interface for exploring the inner workings of popular search and sort algorithms. Link to the site:  https://algorithm-visuality.onrender.com/",
       techs: ["React","TypeScript", "Tailwind","Vite", "shadcn", "radix-ui"],
