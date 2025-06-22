@@ -2,13 +2,33 @@ import React from 'react';
 
 const qualifications = [
     {
-        title: "Full Stack Developer - Early-Stage Startup",
+        title: "ProductClank - Full Stack Developer",
         year: 2024,
         description: "Working as a Full Stack Developer in a small team of experienced developers who have previously built startups. Collaborating on an innovative new startup project, gaining hands-on experience with modern web technologies and agile development practices.",
         institute: {
+            name: "ProductClank",
+            shortName: "",
+            duration: "Jun 2025 - Present",
+        }
+    },
+    {
+        title: "SipEat - Full Stack Developer - Freelance Project",
+        year: 2025,
+        description: "Built as a freelance project for SipEat, a company specializing in vending machines, this web application streamlines interactions with food and beverage services. It allows users to create contacts for requesting machine placements and customize beverage selections for specific machines, enhancing the experience for customers who purchase from them.",
+        institute: {
             name: "",
             shortName: "",
-            duration: "Nov 2023 - Present",
+            duration: "Jun 2025 - One Time Project",
+        }
+    },
+    {
+        title: "SimpleBlocks - Full Stack Developer - Early-Stage Startup",
+        year: 2024,
+        description: "Working as a Full Stack Developer in a small team of experienced developers who have previously built startups. Collaborating on an innovative new startup project, gaining hands-on experience with modern web technologies and agile development practices.",
+        institute: {
+            name: "SimpleBlocks",
+            shortName: "",
+            duration: "Nov 2024 - Present",
         }
     },
     {
