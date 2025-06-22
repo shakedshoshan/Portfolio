@@ -3,8 +3,8 @@ import React from 'react';
 const qualifications = [
     {
         title: "ProductClank - Full Stack Developer",
-        year: 2024,
-        description: "Working as a Full Stack Developer in a small team of experienced developers who have previously built startups. Collaborating on an innovative new startup project, gaining hands-on experience with modern web technologies and agile development practices.",
+        year: 2025,
+        description: "Web3 platform connecting builders with believers through tokenized product launches. The platform enables entrepreneurs to showcase their products, launch tokens via Clanker integration, and build community support through a unique 'Believer Score' system.",
         institute: {
             name: "ProductClank",
             shortName: "",
