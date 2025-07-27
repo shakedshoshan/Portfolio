@@ -10,6 +10,13 @@ const recentWorks = [
         ref: "https://github.com/shakedshoshan/movie-recommender"
     },
     {
+      title: "SkillUp - AI-Powered Learning Platform",
+      description: "An intelligent learning platform that generates personalized courses using AI, tracks progress and chatbot assistant for brainstorm. Features AI course generation, CourseBot assistant, real-time progress tracking, and comprehensive learning management.",
+      techs: ["Next.js", "TypeScript", "Supabase", "OpenAI", "Redis", "Express.js", "Tailwind CSS", "Socket.io", "Docker", "LangChain"],
+      img: "/images/skill-up.png",
+      ref: "https://github.com/shakedshoshan/SkillUp"
+  },
+    {
         title: "Live Chat Web App",
         description: "A real-time communication capabilities for users within a web interface.",
         techs: ["React", "Node", "JS","MongoDB", "Socket.io", "Express.js", "Tailwind","Vite"],

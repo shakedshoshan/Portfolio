@@ -34,15 +34,19 @@ const techSkills = [
             { icon: <img className="w-4 h-4 mr-1" src="icons/pulumi.png" alt="Pulumi"/>, name: "Pulumi"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/Socket.io.png" alt="Socket.io"/>, name: "Socket.io"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/jwt.png" alt="jwt"/>, name: "JWT"},
+            { icon: <i className="fa fa-robot text-purple-600 pr-2"></i>, name: "OpenAI"},
+            { icon: <i className="fa fa-brain text-orange-500 pr-2"></i>, name: "LangChain"},
+            { icon: <i className="fa fa-cube text-red-500 pr-2"></i>, name: "Ollama"},
         ]
     },
     {
-        title: "Database",
+        title: "Database & Caching",
         skills: [
             { icon: <img className="w-4 h-4 mr-1" src="icons/mongo.png" alt="MongoDB"/>, name: "MongoDB"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/postgresql.png" alt="PostgreSql"/>, name: "PostgreSql"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/mysql.png" alt="MySql"/>, name: "MySql"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/supabase.png" alt="Supabase"/>, name: "Supabase"},
+            { icon: <i className="fa fa-database text-red-600 pr-2"></i>, name: "Redis"},
         ]
     },
     {
