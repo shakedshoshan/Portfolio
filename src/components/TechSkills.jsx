@@ -36,7 +36,7 @@ const techSkills = [
             { icon: <img className="w-4 h-4 mr-1" src="icons/jwt.png" alt="jwt"/>, name: "JWT"},
             { icon: <i className="fa fa-robot text-purple-600 pr-2"></i>, name: "OpenAI"},
             { icon: <i className="fa fa-brain text-orange-500 pr-2"></i>, name: "LangChain"},
-            { icon: <i className="fa fa-cube text-red-500 pr-2"></i>, name: "Ollama"},
+           
         ]
     },
     {
@@ -50,11 +50,13 @@ const techSkills = [
         ]
     },
     {
-        title: "Cloud Services",
+        title: "DevOps & Cloud Services",
         skills: [
             { icon: <i className="fa-brands fa-aws text-yellow-500 pr-2"></i>, name: "AWS"},
             { icon: <i className="fa-brands fa-google text-red-500 pr-2"></i>, name: "GCP"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/vercel.png" alt="Vercel"/>, name: "Vercel"},
+            { icon: <img className="w-4 h-4 mr-1" src="icons/docker.png" alt="Docker"/>, name: "Docker" },
+            { icon: <img className="w-4 h-4 mr-1" src="https://devicons.railway.com/i/railway-dark.svg" alt="Railway"/>, name: "Railway" },
             
         ]
     },
@@ -72,7 +74,6 @@ const techSkills = [
     {
         title: "Differents tech",
         skills: [
-            { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "Docker" },
             { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "Linux" },
             { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "Unity" },
             { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "C#" },
