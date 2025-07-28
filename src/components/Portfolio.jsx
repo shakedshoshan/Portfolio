@@ -84,7 +84,13 @@ const Portfolio = () => {
                   <h1 className="text-2xl font-semibold text-gray-800 dark:text-gray-200">Objective</h1>
                 </div>
                 <p className="text-gray-800 dark:text-gray-400 text-justify mt-3">
-                A highly motivated and a self-learner Computer Science graduated and Practical Engineer for Computers and Electronics with a strong military background in the 8200 unit. My experience includes training and teaching new soldiers, management of complicated classified intelligence systems at the level of development and maintenance, individual and group work on software development projects as part of my studies. Willing to enter to an interesting company in a challenging position that will enable to empower my skills set and take me one step further to becoming a professional developer.
+                Hey, I’m a full-stack developer who loves building stuff that actually works — and works well. I like making fast, simple, and scalable apps, whether it’s a clean frontend with React and TypeScript or a solid backend with Node.js, PostgreSQL, and REST APIs.
+
+I’ve worked at early-stage startups, taken on freelance gigs, and built plenty of my own projects from scratch. Real-time apps with WebSockets, social platforms, dashboards, multiplayer games — you name it. I’ve deployed things on AWS and GCP, used serverless functions, and I’m comfortable with Docker, CI/CD, and Pulumi when it comes to DevOps and infrastructure.
+
+Before getting into software, I was a Practical Electronics Engineer and served in Unit 8200 — both taught me how to think through problems, learn fast, and work well under pressure.
+
+I have a B.Sc. in Computer Science from Afeka College, and I’m always looking to learn new things, work on cool projects, and build products that people actually want to use.
                 </p>
               </div>
               <hr className="my-8 h-px bg-gray-100 border-0 dark:bg-gray-800" />
