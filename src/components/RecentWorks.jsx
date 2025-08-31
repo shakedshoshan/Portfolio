@@ -10,6 +10,13 @@ const recentWorks = [
         ref: "https://github.com/shakedshoshan/movie-recommender"
     },
     {
+        title: "Scizor - AI-Powered Productivity platform",
+        description: "Developed and deployed a comprehensive full-stack productivity solution using modern cloud architecture.A desktop application with intelligent clipboard management and AI text enhancement, explanation, reading, translation, note quick managment and more.  The platform features global hotkeys, real-time AI text processing, and cross-platform compatibility, serving as a complete productivity solution for developers, content creators, and business professionals.",
+        techs: ["React", "Node","AWS","terraform","sqlite","pyqt6", "TypeScript","Firebase", "Python", "Nest.js", "Tailwind","Next.js", "Vercel"],
+        img: "/images/scizor.png",
+        ref: "https://github.com/shakedshoshan/movie-recommender"
+    },
+    {
       title: "SkillUp - AI-Powered Learning Platform",
       description: "An intelligent learning platform that generates personalized courses using AI, tracks progress and chatbot assistant for brainstorm. Features AI course generation, CourseBot assistant, real-time progress tracking, and comprehensive learning management.",
       techs: ["Next.js", "TypeScript", "Supabase", "OpenAI", "Redis", "Express.js", "Tailwind CSS", "Socket.io", "Docker", "LangChain"],

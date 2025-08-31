@@ -31,12 +31,12 @@ const techSkills = [
         skills: [
             { icon: <i className="fa-brands fa-node fa-sm text-green-600 pr-2"></i>, name: "Node.js"},
             { icon: <i className="fa-brands fa-node-js text-green-600 pr-2"></i>, name: "Express.js" },
+            { icon: <img className="w-4 h-4 mr-1" src="icons/Nest.js.png" alt="Nest.js"/>, name: "NestJS"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/pulumi.png" alt="Pulumi"/>, name: "Pulumi"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/Socket.io.png" alt="Socket.io"/>, name: "Socket.io"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/jwt.png" alt="jwt"/>, name: "JWT"},
             { icon: <i className="fa fa-robot text-purple-600 pr-2"></i>, name: "OpenAI"},
             { icon: <i className="fa fa-brain text-orange-500 pr-2"></i>, name: "LangChain"},
-           
         ]
     },
     {
@@ -47,6 +47,7 @@ const techSkills = [
             { icon: <img className="w-4 h-4 mr-1" src="icons/mysql.png" alt="MySql"/>, name: "MySql"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/supabase.png" alt="Supabase"/>, name: "Supabase"},
             { icon: <i className="fa fa-database text-red-600 pr-2"></i>, name: "Redis"},
+            { icon: <img className="w-4 h-4 mr-1" src="icons/Firebase.png" alt="Firebase"/>, name: "Firebase"},
         ]
     },
     {
@@ -57,6 +58,7 @@ const techSkills = [
             { icon: <img className="w-4 h-4 mr-1" src="icons/vercel.png" alt="Vercel"/>, name: "Vercel"},
             { icon: <img className="w-4 h-4 mr-1" src="icons/docker.png" alt="Docker"/>, name: "Docker" },
             { icon: <img className="w-4 h-4 mr-1" src="https://devicons.railway.com/i/railway-dark.svg" alt="Railway"/>, name: "Railway" },
+            { icon: <img className="w-4 h-4 mr-1" src="icons/Terraform.png" alt="Terraform"/>, name: "Terraform" },
             
         ]
     },
@@ -69,6 +71,7 @@ const techSkills = [
             { icon: <img className="w-4 h-4 mr-1" src="icons/postman.png" alt="postman"/>, name: "Postman" },
             { icon: <img className="w-4 h-4 mr-1" src="icons/kaggle.png" alt="Kaggle"/>, name: "Kaggle" },
             { icon: <i className="fa-brands fa-git text-yellow-500 pr-2"></i>, name:"git"},
+            { icon: <img className="w-4 h-4 mr-1" src="icons/lemonsqueezy.jpeg" alt="Lemon Squeezy"/>, name: "Lemon Squeezy"}
         ]
     },
     {
@@ -80,7 +83,7 @@ const techSkills = [
             { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "Java" },
             { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "Assembly" },
             { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "Google collab" },
-            { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "Eclips"}
+            { icon: <i className="fa fa-code fa-2xs text-blue-900 pr-2"></i>, name: "Eclips"},
         ]
     }
 ];
