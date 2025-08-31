@@ -2,21 +2,21 @@ import React from 'react';
 
 const qualifications = [
     {
-        title: "ProductClank - Full Stack Developer",
+        title: "ProductClank - Full Stack Developer - One-Time Freelance Project",
         year: 2025,
         description: "Web3 platform connecting builders with believers through tokenized product launches. The platform enables entrepreneurs to showcase their products, launch tokens via Clanker integration, and build community support through a unique 'Believer Score' system.",
         institute: {
             name: "ProductClank",
             shortName: "",
-            duration: "Jun 2025 - Present",
+            duration: "Jun 2025 - One Time Project",
         }
     },
     {
-        title: "SipEat - Full Stack Developer - Freelance Project",
+        title: "SipEat - Full Stack Developer - One-Time Freelance Project",
         year: 2025,
         description: "Built as a freelance project for SipEat, a company specializing in vending machines, this web application streamlines interactions with food and beverage services. It allows users to create contacts for requesting machine placements and customize beverage selections for specific machines, enhancing the experience for customers who purchase from them.",
         institute: {
-            name: "",
+            name: "SipEat",
             shortName: "",
             duration: "Jun 2025 - One Time Project",
         }
