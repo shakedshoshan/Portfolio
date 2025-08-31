@@ -28,7 +28,7 @@ const qualifications = [
         institute: {
             name: "SimpleBlocks",
             shortName: "",
-            duration: "Nov 2024 - Present",
+            duration: "Nov 2024 - Jun 2025",
         }
     },
     {
